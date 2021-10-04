@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/author/tojhim/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-10-04T21:00:29+09:00</updated>
+  <id>http://localhost:4000/author/tojhim/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">tojhim Technical Blog | </title>
+  
+
+  
+    <subtitle>tojhim Technical Blog</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Jekyll 강좌(1) - 블로그를 만들어봅시다</title>
+      <link href="http://localhost:4000/python-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - 블로그를 만들어봅시다" />
+      <published>2021-06-08T01:40:00+09:00</published>
+      <updated>2021-06-08T01:40:00+09:00</updated>
+      <id>http://localhost:4000/python-basic</id>
+      <content type="html" xml:base="http://localhost:4000/python-basic">&lt;p&gt;이 글은 python basic입니다!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>tojhim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">이 글은 python basic입니다!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python 강좌(1) - Python 기본</title>
+      <link href="http://localhost:4000/jekyll-basic" rel="alternate" type="text/html" title="Python 강좌(1) - Python 기본" />
+      <published>2021-06-08T01:40:00+09:00</published>
+      <updated>2021-06-08T01:40:00+09:00</updated>
+      <id>http://localhost:4000/jekyll-basic</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll-basic">&lt;p&gt;이 글은 jekyll basic입니다!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>tojhim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">이 글은 jekyll basic입니다!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
